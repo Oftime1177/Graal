@@ -1,6 +1,6 @@
 # The Graal
 
-L'application de gestion des employés de Kaamelott, inc.
+L'application de gestion des employï¿½s de Kaamelott, inc.
 
 ## Contribs:
-Rajout de l'autre machin comme premier dev
+Rajout de l'autre machin comme premier dev (Bonsoir moi c'est Percy)
